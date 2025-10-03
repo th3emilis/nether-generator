@@ -12,22 +12,22 @@ Build Nether structures anywhere in your world in the blink of an eye. Nether Ge
 ### Bastion remnants
 Generate all bastion variants: bridge, hoglin stables, treasure, and housing units.
 
-![Screenshot showing all 4 bastion remnant variants.](assets/screenshot_0.png)
+![An image divided into four different layers showing a bridge bastion, a hoglin stables bastion, a treasure bastion, and a housing units bastion.](assets/screenshot_0.png)
 
 ### Nether fossils
 Generate all 14 types of fossils.
 
-![Screenshot showing all Nether fossils.](assets/screenshot_1.png)
+![A screenshot showing all 14 Nether fossils next to each other.](assets/screenshot_1.png)
 
 ### Ruined portals
-Generate ruined Nether portals.
+Generate all 13 types of ruined Nether portals.
 
-![Screenshot showing 3 ruined portals.](assets/screenshot_2.png)
+![A screenshot showing all 13 ruined portals next to each other.](assets/screenshot_2.png)
 
 ### Compatible with other generators
 Seamlessly pair this add-on with other generators, like [Village Generator](https://github.com/th3emilis/village-generator/releases/latest).
 
-![Screenshot showing a villager inside a Plains Village House in the treasure room of a Bastion Remnant.](assets/screenshot_3.png)
+![A screenshot showing a villager inside a plains village house in the treasure room of a bastion remnant.](assets/screenshot_3.png)
 
 ## Usage
 

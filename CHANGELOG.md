@@ -2,6 +2,10 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 2.1.0 - 03 October 2025
+
+- Added all 10 remaining ruined portals.
+
 ## 2.0.0 - 14 August 2025
 
 - Structures are now generated via function commands in the cardinal direction the player is facing when the command is run.
